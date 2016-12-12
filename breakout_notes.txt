@@ -1,0 +1,6 @@
+Breakout Notes
+
+class for paddle
+class for blocks to break
+
+game runs 25fps
